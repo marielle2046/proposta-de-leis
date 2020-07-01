@@ -4,7 +4,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 0.429 seconds.
+Conversion time: 0.515 seconds.
 
 
 Using this Markdown file:
@@ -17,9 +17,9 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β28
-* Tue Jun 30 2020 19:39:54 GMT-0700 (PDT)
+* Tue Jun 30 2020 19:45:32 GMT-0700 (PDT)
 * Source doc: Este é um espaço para experimentar o uso do sistema de colaboração em grande escala Github para melhorar nossas leis
-* This is a partial selection. Check to make sure intra-doc links work.
+----->
 
 
 Este é um espaço para experimentar o uso do sistema de colaboração em grande escala Github para melhorar nossas leis.
