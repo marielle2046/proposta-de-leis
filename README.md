@@ -29,7 +29,7 @@ A linguagem de formatação usada pelo Github é o Markdown (arquivos .md).
 Para que prefere usar o Google Docs existe uma ferramenta Docs to Markdown que traduz documentos do Google Docs para o Markdown ([https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607](https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607)).
 
 
-# Lei de Cotas
+## Lei de Cotas
 
 [Na pasta lei-de-cotas](https://github.com/marielle2046/proposta-de-leis/tree/master/lei-de-cotas):
 
@@ -44,7 +44,7 @@ Propor melhorias  para o [decreto-7_824-evolucao.md](https://github.com/marielle
 E enviar um **pull request**.
 
 
-# Manifesto dos Entregadores
+## Manifesto dos Entregadores
 
 Na pasta [manifestos](https://github.com/marielle2046/proposta-de-leis/tree/master/manifestos) :
 
