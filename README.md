@@ -26,7 +26,7 @@ Este é um espaço para experimentar o uso do sistema de colaboração em grande
 
 A linguagem de formatação usada pelo Github é o Markdown (arquivos .md).
 
-Para que prefere usar o Google Docs existe uma ferramenta Docs to Markdown que traduz documentos do Google Docs para o Markdown ([https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607](https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607)).
+Para quem prefere usar o Google Docs, existe uma ferramenta Docs to Markdown que traduz documentos do Google Docs para o Markdown ([https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607](https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607)).
 
 [Na pasta lei-de-cotas](https://github.com/marielle2046/proposta-de-leis/tree/master/lei-de-cotas):
 
