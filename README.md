@@ -20,7 +20,7 @@ Conversion notes:
 * Tue Jun 30 2020 19:45:32 GMT-0700 (PDT)
 * Source doc: Este é um espaço para experimentar o uso do sistema de colaboração em grande escala Github para melhorar nossas leis
 ----->
-
+[Vídeo de introdução ao GitHub ](https://youtu.be/hwDRjlCj4Po?t=41)
 
 Este é um espaço para experimentar o uso do sistema de colaboração em grande escala Github para melhorar nossas leis.
 
